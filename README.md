@@ -2,11 +2,11 @@
 
 I plan to do the following.
 
-1. https://tour.golang.org
-2. https://golang.org/doc/code.html To learn how to organize your Go workspace
-3. https://golang.org/doc/effective_go.html which would help you be more effective at writing Go
-4. https://golang.org/ref/spec will help you learn more about the language itself
-5. https://golang.org/doc/#articles For a lot more reading material
+[] https://tour.golang.org
+[x] https://golang.org/doc/code.html To learn how to organize your Go workspace
+[] https://golang.org/doc/effective_go.html which would help you be more effective at writing Go
+[] https://golang.org/ref/spec will help you learn more about the language itself
+[] https://golang.org/doc/#articles For a lot more reading material
 
 Once complete, I will check out the following while trying to think of a project.
 
